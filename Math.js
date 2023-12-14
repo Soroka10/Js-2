@@ -59,6 +59,6 @@ function triangle(arg1, type1, arg2, type2) {
   return 'success';
 }
 
-const result = triangle(60, "opposite angle", 5, "leg");
-const result1 =triangle(7, "leg", 18, "hypotenuse");
-console.log(result);
+
+const result1 =triangle(5, "leg", 6, "hypotenuse");
+console.log(result1);
